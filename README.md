@@ -4,7 +4,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shakir+Hussain;AI+Engineer+%7C+Machine+Learning+Engineer+%7C+MERN+Developer;Building+Intelligent+Solutions+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shakir+Hussain;MERN+Developer;Building+Intelligent+Solutions+with+AI" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -77,19 +77,7 @@
 
 </p>
 
----
 
-## 🤖 AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pandas,numpy,sklearn"/>
-
-</p>
-
----
 
 ## 📊 Data Analytics
 
