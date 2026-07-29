@@ -139,7 +139,7 @@
 | 📄 Resume Analyzer | AI-powered resume screening application |
 | 👁 Face Recognition | OpenCV + Deep Learning |
 | 📊 Data Dashboard | Interactive Power BI Dashboard |
-| 🧠 Machine Learning Projects | Classification, Regression & NLP |
+| 🧠 Machine Learning Projects | Classification, Regression|
 
 ---
 
