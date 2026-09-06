@@ -29,10 +29,6 @@
 
 📚 Currently learning **LLMs, Advanced Machine Learning, and Cloud Technologies** to become an AI Engineer.
 
-🚀 I love solving real-world problems through data, automation, and AI-driven solutions.
-
-🎯 **Career Goal:** Become a world-class AI Engineer and contribute to innovative AI products that make a real impact.
-
 ✨ **Interests**
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning & Deep Learning
@@ -53,10 +49,6 @@
 
 <a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_USERNAME">
@@ -129,20 +121,6 @@
 
 </p>
 
-
-
-# 🚀 Featured Projects
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🤖 AI Chatbot | Intelligent chatbot powered by LLMs |
-| 📄 Resume Analyzer | AI-powered resume screening application |
-| 👁 Face Recognition | OpenCV + Deep Learning |
-| 📊 Data Dashboard | Interactive Power BI Dashboard |
-| 🧠 Machine Learning Projects | Classification, Regression|
-
----
-
 # ❤️ Support
 
 <p align="center">
@@ -155,12 +133,6 @@ Let's collaborate on AI, Machine Learning, Data Science, and Open Source project
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,40:3B82F6,70:6A0DAD,100:0D1117"/>
-
-</p>
-
 <h3 align="center">
 
 ✨ Thanks for Visiting ✨
@@ -168,13 +140,3 @@ Let's collaborate on AI, Machine Learning, Data Science, and Open Source project
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Happy+Coding!;Lets+Build+Something+Amazing!;See+You+Again!" alt="Typing SVG" />
 
 </h3>
-
-<!-- ========================================================= -->
-<!-- Replace these placeholders:                               -->
-<!-- YOUR_NAME                                                 -->
-<!-- YOUR_USERNAME                                             -->
-<!-- LinkedIn URL                                              -->
-<!-- Gmail                                                     -->
-<!-- Portfolio URL                                             -->
-<!-- LeetCode Username                                         -->
-<!-- ========================================================= -->
