@@ -69,20 +69,6 @@
 
 </p>
 
-
-
-## 📊 Data Analytics
-
-<p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
----
-
 ## 🌐 Web Development
 
 <p>
