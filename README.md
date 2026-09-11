@@ -79,43 +79,12 @@
 
 ---
 
-## 🛢 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
----
-
-## ☁ Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
-
-</p>
-
----
-
-## ⚙ Tools
+## ⚙ Tool
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
 
-</p>
-
-# ❤️ Support
-
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-Let's collaborate on AI, Machine Learning, Data Science, and Open Source projects.
-
-</p>
 
 ---
 
